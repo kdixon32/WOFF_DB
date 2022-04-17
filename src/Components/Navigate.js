@@ -9,7 +9,6 @@ import Home from './Home';
 import About from './About';
 import Description from './Description';
 import Checklist from './Checklist';
-import Signup from './Login/Signup';
 import Login from './Login/Login';
 import WOFF_DB from './WOFF_DB';
 import { Navbar, Nav, Container } from "react-bootstrap";
