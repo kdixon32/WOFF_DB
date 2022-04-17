@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WOFF_DB/static/css/main.5aeee4cd.css",
+    "main.js": "/WOFF_DB/static/js/main.c9782f6d.js",
+    "index.html": "/WOFF_DB/index.html",
+    "main.5aeee4cd.css.map": "/WOFF_DB/static/css/main.5aeee4cd.css.map",
+    "main.c9782f6d.js.map": "/WOFF_DB/static/js/main.c9782f6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5aeee4cd.css",
+    "static/js/main.c9782f6d.js"
+  ]
+}
