@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export default class Home extends Component {
     render() {
         return (
-            <div>
+            <div className="Checklist">
                 <h3>Website Features:</h3>
                 <li>Responsive Database Search</li>
                 <li>Homepage</li>

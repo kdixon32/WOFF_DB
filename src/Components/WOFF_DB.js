@@ -31,6 +31,7 @@ export default function Search() {
                         <p>Active Skills: {hit.Active_Skills}</p>
                         <p>Passive Skills: {hit.Passive_Skills}</p>
                         <p>Field Skills: {hit.Field_Skills}</p>
+                        <p>Magic: {hit.MAG_Growth}</p>
                     </div>
                 </Collapse>
             </div>

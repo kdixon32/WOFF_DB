@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 export default class Description extends Component {
     render() {
         return (
-            <div>
+            <div className="Desc">
                 <h4>Users of the Site:</h4>
                 <div>The main users of this website are people who play the game "World of Final Fantasy".</div>
                 <h4>Usage:</h4>

@@ -9,6 +9,7 @@ import Home from './Home';
 import About from './About';
 import Description from './Description';
 import Checklist from './Checklist';
+import Demo from './Demo';
 import Login from './Login/Login';
 import WOFF_DB from './WOFF_DB';
 import { Navbar, Nav, Container } from "react-bootstrap";
@@ -38,6 +39,7 @@ export default class Navigate extends Component {
                                     <Nav.Link as={Link} to="/about">About Us</Nav.Link>
                                     <Nav.Link as={Link} to="/description">Description</Nav.Link>
                                     <Nav.Link as={Link} to="/checklist">Checklist</Nav.Link>
+                                    <Nav.Link as={Link} to="/Demo">Demo</Nav.Link>
                                     <Nav.Link as={Link} to="/login">Members Only</Nav.Link>
                                 </Nav>
                             </Navbar.Collapse>
@@ -49,6 +51,7 @@ export default class Navigate extends Component {
                         <Route path="/about" element={<About />} />
                         <Route path="/woff_db" element={<WOFF_DB />} />
                         <Route path="/checklist" element={<Checklist />} />
+                        <Route path="/demo" element={<Demo />} />
                         <Route path="/home" element={<Home />} />
                         <Route path='/description' element={<Description />} />
                         <Route path='/login' element={<Login />} />

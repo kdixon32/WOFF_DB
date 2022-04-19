@@ -18,6 +18,56 @@ code {
 
 }
 
+.image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 27%;
+}
+
+.inner-list {
+  margin: 20px;
+  font-weight: 1000;
+}
+
+.image {
+  align-items: center;
+  justify-content: center;
+  flex: auto;
+}
+
+.About {
+  margin: 10px;
+  font-family: 'Chivo', sans-serif;
+}
+
+.Desc {
+  margin: 10px;
+  font-family: 'Chivo', sans-serif;
+}
+
+.Demo {
+  margin: 10px;
+  font-family: 'Chivo', sans-serif;
+}
+
+.Home {
+  margin: 10px;
+  font-family: 'Chivo', sans-serif;
+}
+
+.Checklist {
+  margin: 10px;
+  font-family: 'Chivo', sans-serif;
+}
+
 .ais-SearchBox-input {
   width: 40%;
   border: none;
@@ -47,11 +97,6 @@ ul {
 
 }
 
-.Card {
-
-
-}
-
 .Name {
   font-size: 25px;
   font-family: 'Chivo', sans-serif;
@@ -61,10 +106,6 @@ ul {
 .Details {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
-}
-
-.welcome {
-  font-family: 'Chivo', sans-serif;
 }
 
 .auth-wrapper {
