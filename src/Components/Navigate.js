@@ -49,7 +49,7 @@ export default class Navigate extends Component {
                 <div>
                     <Routes>
                         <Route path="/about" element={<About />} />
-                        <Route path="/woff_db" element={<WOFF_DB />} />
+                        <Route path="/" element={<WOFF_DB />} />
                         <Route path="/checklist" element={<Checklist />} />
                         <Route path="/demo" element={<Demo />} />
                         <Route path="/home" element={<Home />} />
