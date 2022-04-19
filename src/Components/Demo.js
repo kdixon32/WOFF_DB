@@ -30,7 +30,7 @@ export default class Description extends Component {
                 </div>
                 <div class="image">Here we've found a combination of Quacho Queen(L), Flan Princess(M), and Bablizz(S) to give us the spells that we want.</div><br></br>
                 <div class="image">A example stack to meet the second goal may look something like the following, which uses the the magic growth rating and mirages with high level thunder magic.</div>
-                <img src="https://cdn.discordapp.com/attachments/699881102541586494/965807892659838986/unknown.png" width="900" height="400" class="image" alt=""></img><br></br>
+                <img src="https://cdn.discordapp.com/attachments/699881102541586494/965807892659838986/unknown.png" className="image" width="900" height="400" class="image" alt=""></img><br></br>
                 <div className="image">
                     <iframe width="900" height="400" src="https://www.youtube.com/embed/JyM3z0beFdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     <iframe width="900" height="400" src="https://www.youtube.com/embed/-3Zu8mj3Rxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
